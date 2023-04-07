@@ -1,4 +1,4 @@
-#Cadastro
+#Novo modelo de cadastro.
 users = [] #nome
 age = [] #idade
 gender = [] #sexo
