@@ -1,2 +1,2 @@
-# Cadastro_Pessoas
-Programa de cadastro de pessoas para a Escola de Tecnologia Ultima.School.
+# Registrations_People
+People registration program for the Ultima.School Technology School.
