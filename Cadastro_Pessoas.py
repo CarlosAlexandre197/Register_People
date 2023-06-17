@@ -1,4 +1,4 @@
-#Cadastro de alunos da Ultima.School.
+#Cadastro de Alunos da Ultima.School.
 
 alunos = [] 
 idade = []
